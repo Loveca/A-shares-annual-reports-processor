@@ -20,8 +20,8 @@
 
 1. 克隆仓库：
 ```bash
-git clone [your-repository-url]
-cd [repository-name]
+git clone https://github.com/Loveca/A-shares-annual-reports-processor.git
+cd A-shares-annual-reports-processor
 ```
 
 2. 安装依赖：
@@ -103,4 +103,25 @@ python pdf/Code/merge_manual_input.py
 2. 处理大量文件时可能需要较长时间
 3. 建议定期备份重要数据
 4. 确保PDF文件格式正确且可读
+
+## 贡献指南
+
+欢迎提交Issue和Pull Request来帮助改进这个项目。在提交PR之前，请确保：
+
+1. 代码符合项目的编码规范
+2. 添加了必要的测试
+3. 更新了相关文档
+
+## 许可证
+
+MIT License
+
+## 联系方式
+
+- GitHub: [@Loveca](https://github.com/Loveca)
+- 项目地址: [A-shares-annual-reports-processor](https://github.com/Loveca/A-shares-annual-reports-processor)
+
+## 致谢
+
+感谢所有为这个项目做出贡献的开发者。
 
